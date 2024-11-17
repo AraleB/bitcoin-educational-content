@@ -1,7 +1,7 @@
 ---
 name: Bitcoin Core Node (linux)
 description: Menjalankan node Anda sendiri dengan Bitcoin Core
----
+--- jjjj
 
 ![cover](assets/cover.webp)
 
